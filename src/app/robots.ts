@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/", "/static/"],
       },
     ],
-    sitemap: "https://skills-dev.vercel.app/sitemap.xml",
+    sitemap: "https://skills-dev-care.vercel.app/sitemap.xml",
   };
 }

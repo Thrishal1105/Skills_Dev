@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://skills-dev.vercel.app"),
+  metadataBase: new URL("https://skills-dev-care.vercel.app"),
   title: {
     template: "%s | Skills Dev",
     default: "Skills Dev | Master the Art of AI-Driven Engineering",
