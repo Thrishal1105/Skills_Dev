@@ -2,7 +2,7 @@
 
 **Skills Dev** is a premium, AI-driven skill development platform designed for modern engineers. It provides specialized, interactive learning roadmaps for Frontend, Backend, AI Integration, and specialized AI for Development, empowering developers to navigate the rapidly evolving tech landscape.
 
-![Skills Dev Logo](/favicon.png)
+
 
 ## ✨ Features
 
